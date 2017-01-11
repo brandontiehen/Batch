@@ -52,7 +52,9 @@ echo.
 timeout 1 > nul
 echo Generating Random Key VPN...
 timeout 3 > nul
-start matrix.bat
+echo %random%%random%%random%%random%%random%%random%
+echo.
+echo VPN Complete.
 echo.
 :fakeDownload
 timeout 4 > nul
